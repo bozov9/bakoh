@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Home - Simple',
+  title: 'Home - BAKOH',
   description: 'Page description',
 }
 
@@ -13,7 +13,7 @@ export default function Home() {
   return (
     <>
       <Hero />
-      <Features />
+      {/* <Features /> */}
       <FeaturesBlocks />
       <Testimonials />
       <Newsletter />
