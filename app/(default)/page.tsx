@@ -1,6 +1,7 @@
 export const metadata = {
   title: 'Home - BAKOH',
-  description: 'Page description',
+  description: 'Your contstruction service with more than 8 years experience.',
+  icons: '/images/logo.jpeg'
 }
 
 import Hero from '@/components/hero'
