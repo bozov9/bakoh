@@ -14,7 +14,7 @@ const inter = Inter({
 export const metadata = {
   title: 'BAKO - CONSTRUCTION',
   description: 'Your contstruction service with more than 8 years experience.',
-  icons: '/images/logo.jpeg'
+  icons: '/bakoh/logo.jpeg'
 }
 
 export default function RootLayout({
